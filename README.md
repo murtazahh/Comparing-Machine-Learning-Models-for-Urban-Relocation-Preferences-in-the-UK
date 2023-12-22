@@ -27,3 +27,5 @@ The dataset results provide insights into the dynamics of the data, guiding the 
 
 Conclusion:
 The project contributes to the field of recommender systems by focusing on user satisfaction and ethical considerations. It identifies gaps in existing research and proposes innovative solutions. The City Recommendation System developed in this study empowers users with personalized and reliable suggestions, enhancing their decision-making process for urban relocation in the United Kingdom.
+
+#For access to the code and dataset, please reach out to me at callmemurtazah@gmail.com.
