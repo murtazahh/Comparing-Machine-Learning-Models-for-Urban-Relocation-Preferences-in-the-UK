@@ -1,4 +1,4 @@
-Comparing Machine Learning Models for Urban Relocation Preferences in the UK
+#Comparing Machine Learning Models for Urban Relocation Preferences in the UK
 
 Abstract:
 This project delves into the intricate process of selecting an ideal residence in the United Kingdom, employing machine learning algorithms to model and analyze various parameters. The goal is to provide a data-driven perspective for choosing favorable living places. The study explores personalized city recommendations based on scraped data from credible online sources. Three machine learning models—Ridge Regression, Random Forest, and ElasticNet—are implemented and compared for predictive accuracy. The results indicate that the Random Forest model outperforms the others, showcasing its effectiveness in generating precise predictions.
